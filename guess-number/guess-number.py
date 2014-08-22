@@ -1,4 +1,5 @@
 import random
+import Guess
 
 guessesTaken = 0
 
