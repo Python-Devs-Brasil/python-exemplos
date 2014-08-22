@@ -4,7 +4,7 @@ Guess Number ( adivinhe o número)
 É um game para console escrito em Python.
 
 O original você encontra no site 
-[]http://inventwithpython.com/chapter4.html](http://inventwithpython.com/chapter4.html)
+[http://inventwithpython.com/chapter4.html](http://inventwithpython.com/chapter4.html)
 
 
 Jogando
@@ -39,5 +39,5 @@ Supondo que você está no __Linux__ e já tem o __Python__ instalado.
 Followup - notas do release
 ---
 
-A versão `1.0` é a versão original com pequenos ajustes.
-A versão `2.0` é a versão OOP + unittest (tentativa).
++ A versão `1.0` é a versão original com pequenos ajustes.
++ A versão `2.0` é a versão OOP + unittest (tentativa).
