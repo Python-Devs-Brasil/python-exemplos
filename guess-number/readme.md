@@ -1,4 +1,4 @@
-Guess Number ( adivinhe o número)
+Guess Number (adivinhe o número)
 ===
 
 É um game para console escrito em Python.
@@ -41,3 +41,4 @@ Followup - notas do release
 
 + A versão `1.0` é a versão original com pequenos ajustes.
 + A versão `2.0` é a versão OOP + unittest (tentativa).
++ A versão `2.01` inclui mais alguns testes.
