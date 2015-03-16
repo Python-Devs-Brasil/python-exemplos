@@ -1,12 +1,10 @@
 Exemplos de códigos em Python
-====
+===
 
-Coleção de códigos em Python (aqueles que valem alguma coisa).
+Coleção de códigos em Python. São pequenos códigos que podem ajudar a entender a 
+linguagem Python através de exemplos.
 
 Lista (cronológica) dos códigos:
 
 1. [Game Guess Number](guess-number)
 2. [Unit Test](unittest)
-
-
-
